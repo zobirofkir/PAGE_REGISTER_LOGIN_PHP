@@ -15,7 +15,7 @@ This repository contains a user registration, login, and dashboard system implem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/zobirofkir/scaling-octo-giggle.git
 
     Configure the database:
         Create a new database and import the provided SQL schema.
@@ -25,7 +25,7 @@ This repository contains a user registration, login, and dashboard system implem
 
     bash
 
-php -S localhost:8000
+php -S localhost:3000
 
 Open the application in your browser:
 
