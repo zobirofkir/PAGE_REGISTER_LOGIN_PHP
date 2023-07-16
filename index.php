@@ -37,5 +37,5 @@ if (isset($_POST['register'])) {
     }
 }
 
-include "html/register.html";
+include "html/register.php";
 ?>
