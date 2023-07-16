@@ -21,6 +21,6 @@ if (isset($_POST['login'])){
     }
 }
 
-include "html/login.html"
+include "html/login.php"
 
 ?>

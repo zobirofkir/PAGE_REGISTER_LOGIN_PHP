@@ -1,4 +1,4 @@
 <?php
 
-include "html/home.html";
+include "html/home.php";
 ?>
